@@ -9,4 +9,10 @@ public class Demotest {
 		System.out.println("Hi");
 	}
 
+	@Test
+	public void test02(){
+		System.out.println("Hi world");
+	}
+
 }
+
